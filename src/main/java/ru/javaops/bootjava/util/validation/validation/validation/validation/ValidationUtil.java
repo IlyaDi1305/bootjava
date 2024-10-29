@@ -1,8 +1,8 @@
-package ru.javaops.bootjava.util.validation;
+package ru.javaops.bootjava.common.validation;
 
 import lombok.experimental.UtilityClass;
-import ru.javaops.bootjava.HasId;
-import ru.javaops.bootjava.error.IllegalRequestDataException;
+import ru.javaops.bootjava.common.HasId;
+import ru.javaops.bootjava.common.error.IllegalRequestDataException;
 
 @UtilityClass
 public class ValidationUtil {
